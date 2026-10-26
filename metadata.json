@@ -1,0 +1,7 @@
+{
+  "name": "Travel Itinerary Planner - AI-Powered Travel Planning Platform",
+  "description": "Full-stack AI-powered travel planning platform generating personalized day-by-day itineraries, smart trip builder, SaaS dashboard, cost estimation, and route optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
